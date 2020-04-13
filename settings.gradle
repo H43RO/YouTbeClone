@@ -1,0 +1,2 @@
+rootProject.name='YouTbeCloneCoding'
+include ':app'
